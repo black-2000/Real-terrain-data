@@ -1,6 +1,10 @@
 # Real terrain data
 
-The dataset can be downloaded at the following link：https://drive.google.com/drive/folders/1-1yUFEdWyem9pqLmfJC0mVddBU5M5MVz?usp=drive_link
+## A Principal Direction-guided Local Voxelization Structural Feature Approach for Point Cloud Registration
+
+This dataset is presented by paper "A Principal Direction-guided Local Voxelization Structural Feature Approach for Point Cloud Registration" submitted to The Photogrammetric Record.
+
+It can be downloaded at the following link：https://drive.google.com/drive/folders/1-1yUFEdWyem9pqLmfJC0mVddBU5M5MVz?usp=drive_link
 
 Detailed data in the Real Terrain Data
 
