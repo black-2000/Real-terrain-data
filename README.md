@@ -2,7 +2,7 @@
 
 ## A Principal Direction-guided Local Voxelization Structural Feature Approach for Point Cloud Registration
 
-This dataset is presented by paper "A Principal Direction-guided Local Voxelization Structural Feature Approach for Point Cloud Registration" submitted to IEEE Transactions on Geoscience and Remote Sensing.
+This dataset is presented by the paper "A Principal Direction-guided Local Voxelization Structural Feature Approach for Point Cloud Registration" submitted to IET Computer Vision.
 
 It can be downloaded at the following link：https://drive.google.com/drive/folders/1-1yUFEdWyem9pqLmfJC0mVddBU5M5MVz?usp=drive_link
 
